@@ -78,7 +78,7 @@
       "name": "iKun资源"
       },
     "dadi": {
-      "api": https://dadiapi.com/api.php",
+      "api": "https://dadiapi.com/api.php",
       "name": "大地资源"
     }
   }
