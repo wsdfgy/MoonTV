@@ -20,8 +20,8 @@
       "name": "暴风资源"
     },
     "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "name": "小鸡"
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
