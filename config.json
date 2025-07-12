@@ -77,9 +77,10 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
       },
-    "dadi": {
-      "api": "https://dadiapi.com/api.php",
+    "xiaoji": {
+      "api": "https://api.xiaojizy.live/provide/vod",
       "name": "大地资源"
+      "detail": "https://xiaojizy.live"
     }
   }
 }
